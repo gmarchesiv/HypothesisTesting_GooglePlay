@@ -12,3 +12,5 @@ For this I will counduct hypothesis testing using a two-sample unpaired T-test.
 
 The data was obtained from Kaggle https://www.kaggle.com/datasets/lava18/google-play-store-apps and cleaned in the notebook DataCleaning_GooglePlay. 
 It is a sample of ratings from the Google Play Store between 2016 and 2018.
+
+The csv file in the repository contains the necessary data to run the workbook. 
